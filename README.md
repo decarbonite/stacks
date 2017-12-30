@@ -1,2 +1,0 @@
-# stacks
-all about stacks
