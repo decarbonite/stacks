@@ -2,7 +2,7 @@ package stack;
 
 import java.util.*;
 
-public class stackSort {
+public class StackSort {
 
 	public static void main(String[] args) {		
 		
